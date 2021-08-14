@@ -23,7 +23,8 @@
  * Dario Correal - Version inicial
  """
 
-from App.controller import loadBooksTags
+# from App.controller import loadBooksTags # Línea original. Traceback.
+from controller import loadBooksTags # No genera error.
 import config as cf
 import sys
 import controller
