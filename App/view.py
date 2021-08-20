@@ -45,6 +45,7 @@ def printMenu():
     print("1- Cargar Libros")
     print("2- Cargar Tags")
     print("3- Cargar Book Tags")
+    print("4- Hola")
     print("0- Salir")
 
 
